@@ -10,3 +10,9 @@ Cara install
 Jangan lupa commit mandekos.sql yang terbaru setiap kali melakukan perubahan menggunakan wordpress
 
 Jangan lupa import mandekos.sql yang terbaru jika commit yang di pull ke VS Code merubah mandekos.sql
+
+Anggota Kelompok 8:
+1. Dhani Syahputra - 21122208
+2. Luthfia Humaira - 2011522005
+3. Lara Busyanil - 2011521012
+4. Muhammad Farhan Ananda Mirzah - 2011522022
